@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abatall
 - 👀 I’m interested in video games, coding and cars
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on building a website
+- 🌱 I’m currently learning how to make a game in godot
+- 💞️ I’m looking to collaborate on making a 2d metrovania like game in godot
 - 📫 How to reach me no way yet sadly :(
 
 <!---
